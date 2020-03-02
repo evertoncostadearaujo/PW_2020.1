@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <title>Curriculo</title>
+</head>
+
+<body>
+  <table border="1px" width="600px" align="center">
+    <th align="center" colspan="3">CURRÍCULO</th>
+    <tr>
+      <td rowspan="6"><img src="everton_costa.png" alt="Foto de perfil" width="250px" ></td>
+    </tr>
+    <tr>
+      <td>Nome:</td>
+      <td><b>ÉVERTON COSTA DE ARAÚJO</b></td>
+    </tr>
+    <tr>
+      <td>E-MAIL:</td>
+      <td><b>ecaraujo0204@gmail.com</b></td>
+    </tr>
+    <tr>
+      <td>Telefone:</td>
+      <td><b>(31)9 7161-5102</b></td>
+    </tr>
+    <tr>
+      <td>Endereço:</td>
+      <td><b>Rua Santa Rita, 184<bl>Novo Cruzeiro, Ipatinga - MG<bl>CEP: 35164-335</b></td>
+    </tr>
+    <tr>
+      <td>Data de Nascimento:</td>
+      <td><b>04/02/1997</b></tb>
+    </tr>
+    <tr>
+      <td>Naturalidade:</td>
+      <td><b>Coronel Fabriciano - MG</b></tb>
+    </tr>
+
+  </table>
+  <h1><b>Objetivo</b></h1>
+  <p>Estagiar em áreas da Engenharia e Ciências da Computação, Tecnologia e Sistemas da Informação a fim de cumprir requisitos acadêmicos e adquirir experiência profissional para ingresso no mercado. </p>
+  <h1><b>Experiências Acadêmicas</b></h1>
+  <p>
+  <table border="1px" width="300px" align="center">
+    <tr><p>MARÇO/2018 – DEZEMBRO/2019<bl>
+MONITORIA DE MATEMÁTICA, CEFET – MG<bl>
+Auxílio a estudantes do Ensino Médio Técnico.
+</p></tr>
+    <tr><p>MARÇO/2019 – DEZEMBRO/2019<bl>
+MONITORIA DE FÍSICA III, CEFET – MG<bl>
+Auxílio a estudantes do Ensino Superior.
+</p></tr>
+    <tr><p>SETEMBRO/2019 – SETEMBRO/2020<bl>
+COORDENADOR DE EVENTOS, DA-ECOM (CEFET – MG)<bl>
+Planejamento e organização de eventos do Diretório Acadêmico da Engenharia de Computação Campus Timóteo (DA-ECOM).
+</p></tr>
+  </table>
+  </p>
+  <h1><b>Educação</b></h1>
+  <p>
+  <table border="1px" width="300px" align="center">
+    <tr><p>2017 - 2021<bl>
+ENGENHARIA DA COMPUTAÇÃO, CEFET – MG (CENTRO FEDERAL DE EDUCAÇÃO TECNOLÓGICA DE MINAS GERAIS – CAMPUS TIMÓTEO)<bl>
+Cursando 7º período.
+</p></tr>
+  </table>
+  </p>
+  <h1><b>Conhecimento de Linguagens e Softwares</b></h1>
+  <p>•	Java (Avançado)
+<bl>•	C++ (Intermediário)
+<bl>•	JavaScript (Intermediário)
+<bl>•	VHDL, Erlang (Básico)	
+<bl>•	MySQL
+<bl>•	LaTeX, MatLab
+<bl>•	Sistemas Operacionais: Linux e MicrosoftOS
+</p>
+  <h1><b>Idiomas</b></h1>
+  <p>
+<bl>•	Inglês (Avançado)
+<bl>•	Espanhol (Intermediário)
+<bl>•	Francês (Básico)
+</p>
+  <h1><b>Habilidades</b></h1>
+  <p>Proatividade, flexibilidade, comunicação e liderança.</p>
+</body>
+
+</html>
