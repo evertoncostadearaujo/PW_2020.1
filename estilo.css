@@ -7,3 +7,9 @@ color: white
 #head1{
   border: 2px solid blue;
 }
+
+.classe{
+  font-family: Cambria;
+  background-color: powderblue;
+  color: pink;
+}
